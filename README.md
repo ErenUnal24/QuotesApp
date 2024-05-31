@@ -1,4 +1,5 @@
 Here is a simple To Do app with SwiftUI. I used Firestore for the database. With this app, you can add and delete quotes, order them, and also mark them as favorites.
+Sorry for the typos. Its really hard for a native Turkish speaker to write quotes.
 
 ![Screenshot 2024-05-31 at 20 49 21](https://github.com/ErenUnal24/QuotesApp/assets/92259243/d0a357c1-47f8-4f71-aeea-b0b20f1cee15)
 ![Screenshot 2024-05-31 at 20 49 36](https://github.com/ErenUnal24/QuotesApp/assets/92259243/22a56759-5400-466c-96d4-2a859d776c3b)
